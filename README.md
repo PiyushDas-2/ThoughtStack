@@ -18,8 +18,6 @@ Website similar to **notion** built using the `MERN` ([MongoDB](https://mongodb.
 
 ## 🎞 Demo
 
-### Try it your self [here](https://pseudo-notion.pettiboy.com)!
-
 | `Dark Mode`                              | `Light Mode`                               |
 | :--------------------------------------- | :----------------------------------------- |
 | ![Dark Mode Demo](./assets/ss-dark1.png) | ![Light Mode Demo](./assets/ss-light1.png) |
