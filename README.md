@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pseudo Notion
+# ThoughtStack
 
 [![](https://img.shields.io/badge/Authentication-Firebase-yellow?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 [![](https://img.shields.io/badge/Frontnend-ReactJS-blue?style=for-the-badge&logo=react)](https://reactjs.org)
@@ -8,7 +8,6 @@
 [![](https://img.shields.io/badge/Backend-Express-black?style=for-the-badge&logo=express)](https://expressjs.com/ "ExpressJS")
 [![](https://img.shields.io/badge/Styling-Material_UI-darkblue?style=for-the-badge&logo=mui)](https://mui.com/ "Material UI")
 
-Make sure you ⭐️ this [`repository`](https://github.com/pettiboy/react-ui-scrollspy) if you find it helpful or interesting :)
 
 </div>
 
