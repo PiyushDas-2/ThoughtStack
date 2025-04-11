@@ -42,8 +42,3 @@ Website similar to **notion** built using the `MERN` ([MongoDB](https://mongodb.
 1. `React` - Frontend
 1. `Material UI` - Styling
 
-## 📝 Authors
-
-Made with ❤️
-
-- Hussain Pettiwala ([@pettiboy](https://github.com/pettiboy))
